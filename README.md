@@ -19,6 +19,8 @@ Flutter 3.7.12
 
 Dart 2.19.6
 
+Material 3
+
 ## Screenshot
 
 ![image](https://github.com/carrillo07a/yes_no_app_flutter/assets/50898444/12fed748-e387-43df-8800-a5c8c99ec9c7)
